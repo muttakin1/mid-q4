@@ -1,10 +1,22 @@
 /* Add your styles here */
 #Name { 
-padding-top: 100px;
+margin-top: 100px;
  font-size: larger;
  font-style: bold;
   }
-
+#number{
+    margin-left: 250px;
+    
+}
 #text{
  margin-left: 250px;
+}
+#button{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+#text2{
+    margin-top: 20px;
+    margin-left: 650px;
 }
