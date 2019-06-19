@@ -1,1 +1,10 @@
 /* Add your styles here */
+#Name { 
+padding-top: 100px;
+ font-size: larger;
+ font-style: bold;
+  }
+
+#text{
+ margin-left: 250px;
+}
